@@ -1,0 +1,15 @@
+archivo=sonido1
+
+tam_generacion=150
+elitismo=5
+target_fitness=0.01
+epocas=20
+migracion=1
+islas=4
+
+mutacion_nota=0.09
+mutacion_offset=0.01
+mutacion_add_nota=0.1
+mutacion_rem_nota=0.1
+mutacion_join_nota=0.1
+mutacion_split_nota=0.01 
